@@ -1,0 +1,1 @@
+# maplibre-i18n
